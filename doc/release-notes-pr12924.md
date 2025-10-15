@@ -10,3 +10,5 @@ Other API changes
 -----------------
 
 - The `inactivehdmaster` property in the `dumpwallet` output has been corrected to `inactivehdseed`
+
+<!-- Auto-update: 2025-10-15T16:57:45.650567 -->
