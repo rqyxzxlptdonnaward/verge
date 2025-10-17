@@ -521,3 +521,5 @@ documents:
 1. [Implementation notes](impl.md)
 2. [Format of an immutable Table file](table_format.md)
 3. [Format of a log file](log_format.md)
+
+<!-- Auto-update: 2025-10-17T10:49:08.884074 -->
